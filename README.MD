@@ -12,7 +12,7 @@ Technology:
 ----------------------------------------------------
 This process uses the npm package "firestore-export-import".
 
-Screenshot for YouTube Browser App:
+Screenshot for Cloud FireStore Import:
 --------------------------------
 
 <img src="firestore-import.png">
